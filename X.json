@@ -1,0 +1,105 @@
+{
+    "data": {
+      "recommendation": [
+        {
+          "businessId": 1,
+          "detailUrl": "https://exemplo.com/produto/1",
+          "imageName": "https://static.netshoes.com.br/produtos/relogio-orient-masculino-analogico-prataazul-mbss1155a-d2sx/64/L20-0595-064/L20-0595-064_zoom2.jpg?ts=1678807302&ims=326x",
+          "name": "Relogio Oriente",
+          "oldPrice": "De: R$278,00",
+          "price": "R$250,00",
+          "productInfo": {
+            "paymentConditions": "em até 12x de R$6,67 sem juros"
+          }
+        },
+        {
+          "businessId": 2,
+          "detailUrl": "https://exemplo.com/produto/2",
+          "imageName": "https://static.netshoes.com.br/produtos/relogio-de-pulso-masculino-digital-para-academia-corrida/06/MT0-0005-006/MT0-0005-006_zoom2.jpg?ts=1675875672&ims=326x",
+          "name": "Relogio",
+          "oldPrice": "De: R$49,99",
+          "price": "R$45,99",
+          "productInfo": {
+            "paymentConditions": "em até 6x de R$21,67 sem juros"
+          }
+        },
+        {
+          "businessId": 3,
+          "detailUrl": "https://exemplo.com/produto/3",
+          "imageName": "https://static.netshoes.com.br/produtos/relogio-casio-standard-f-91w-1dg/06/112-2578-006/112-2578-006_zoom2.jpg?ts=1670956777&ims=326x",
+          "name": "Relogio",
+          "oldPrice": "De: R$120,99",
+          "price": "R$100,99",
+          "productInfo": {
+            "paymentConditions": "em até 3x de R$16,66 sem juros"
+          }
+        },
+        {
+          "businessId": 3,
+          "detailUrl": "https://exemplo.com/produto/3",
+          "imageName": "https://static.netshoes.com.br/produtos/mouse-gamer-razer-deathadder-v2-mini-chroma-8500dpi-mouse-grip-tape/06/DUP-0147-006/DUP-0147-006_zoom2.jpg?ts=1635841506&ims=326x",
+          "name": "Relogio casio",
+          "oldPrice": "De: R$120,99",
+          "price": "R$100,99",
+          "productInfo": {
+            "paymentConditions": "em até 3x de R$16,66 sem juros"
+          }
+        },
+        {
+          "businessId": 3,
+          "detailUrl": "https://exemplo.com/produto/3",
+          "imageName": "https://static.netshoes.com.br/produtos/cadeira-gamer-pelegrin-em-couro-pu-reclinavel-pel-3019-preta/06/GQO-0298-006/GQO-0298-006_zoom2.jpg?ts=1631079873&ims=326x",
+          "name": "Cadeira Gamer",
+          "oldPrice": "De: R$120,99",
+          "price": "R$100,99",
+          "productInfo": {
+            "paymentConditions": "em até 3x de R$16,66 sem juros"
+          }
+        },
+        {
+          "businessId": 1,
+          "detailUrl": "https://exemplo.com/produto/1",
+          "imageName": "https://static.netshoes.com.br/produtos/relogio-orient-masculino-analogico-prataazul-mbss1155a-d2sx/64/L20-0595-064/L20-0595-064_zoom2.jpg?ts=1678807302&ims=326x",
+          "name": "Relogio Oriente",
+          "oldPrice": "De: R$278,00",
+          "price": "R$250,00",
+          "productInfo": {
+            "paymentConditions": "em até 12x de R$6,67 sem juros"
+          }
+        },
+        {
+          "businessId": 2,
+          "detailUrl": "https://exemplo.com/produto/2",
+          "imageName": "https://static.netshoes.com.br/produtos/relogio-de-pulso-masculino-digital-para-academia-corrida/06/MT0-0005-006/MT0-0005-006_zoom2.jpg?ts=1675875672&ims=326x",
+          "name": "Relogio",
+          "oldPrice": "De: R$49,99",
+          "price": "R$45,99",
+          "productInfo": {
+            "paymentConditions": "em até 6x de R$21,67 sem juros"
+          }
+        },
+        {
+          "businessId": 3,
+          "detailUrl": "https://exemplo.com/produto/3",
+          "imageName": "https://static.netshoes.com.br/produtos/relogio-casio-standard-f-91w-1dg/06/112-2578-006/112-2578-006_zoom2.jpg?ts=1670956777&ims=326x",
+          "name": "Relogio",
+          "oldPrice": "De: R$120,99",
+          "price": "R$100,99",
+          "productInfo": {
+            "paymentConditions": "em até 3x de R$16,66 sem juros"
+          }
+        },
+        {
+          "businessId": 3,
+          "detailUrl": "https://exemplo.com/produto/3",
+          "imageName": "https://static.netshoes.com.br/produtos/mouse-gamer-razer-deathadder-v2-mini-chroma-8500dpi-mouse-grip-tape/06/DUP-0147-006/DUP-0147-006_zoom2.jpg?ts=1635841506&ims=326x",
+          "name": "Relogio casio",
+          "oldPrice": "De: R$120,99",
+          "price": "R$100,99",
+          "productInfo": {
+            "paymentConditions": "em até 3x de R$16,66 sem juros"
+          }
+        }
+      ]
+    }
+  }

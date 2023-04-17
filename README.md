@@ -6,3 +6,7 @@ construção de uma vitrine, em javascript puro e sem frameworks, do Chaordic On
 
 - Instale o modulo serve via npm `npm install serve -g`
 - Inicie o projeto pelo comando `npm start`
+
+### Vitrine renderizada
+
+![vitrine](img/vitrine-exemplo.png)
