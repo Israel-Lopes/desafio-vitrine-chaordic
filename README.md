@@ -1,12 +1,31 @@
-# Desafio estagiário: Front-end
+# Desafio de Estágio: Front-end
 
-construção de uma vitrine, em javascript puro e sem frameworks, do Chaordic OnSite que solicita as informações do produto referência e da lista de produtos recomendados com paginação de um serviço remoto.
+Neste desafio, você será responsável por construir uma vitrine em JavaScript puro, sem o uso de frameworks, que busca e exibe informações sobre um produto de referência e uma lista de produtos recomendados com paginação a partir de um serviço remoto.
 
-### Instruções
+## Instruções
 
-- Instale o modulo serve via npm `npm install serve -g`
-- Inicie o projeto pelo comando `npm start`
+Siga as etapas abaixo para concluir o desafio:
 
-### Vitrine renderizada
+1. **Instalação do Módulo 'serve'**:
+   - Utilize o gerenciador de pacotes npm para instalar o módulo 'serve' globalmente em sua máquina com o seguinte comando:
 
-![vitrine](img/vitrine-exemplo.png)
+     ```shell
+     npm install serve -g
+     ```
+
+   Isso permitirá que você inicie um servidor de desenvolvimento local para testar sua vitrine.
+
+2. **Início do Projeto**:
+   - Após a instalação bem-sucedida do módulo 'serve', inicie o projeto com o seguinte comando:
+
+     ```shell
+     npm start
+     ```
+
+   Isso iniciará um servidor de desenvolvimento local para que você possa visualizar e testar sua vitrine no navegador.
+
+## Vitrine Renderizada
+
+A sua vitrine deve se assemelhar ao exemplo abaixo:
+
+![Vitrine](img/vitrine-exemplo.png)
